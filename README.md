@@ -4,7 +4,7 @@
 ***
 <div>
   <img  height="" src="https://github-readme-stats.vercel.app/api?username=LucioCOstaDev&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img align="right" width="421em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucioCostaDev&layout=compact&langs_count=16&theme=merko"/>
+  <img align="right" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucioCostaDev&layout=compact&langs_count=16&theme=merko"/>
 </div>
 <br/>
 
